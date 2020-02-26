@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#308BF2</color>
+    <color name="colorPrimaryDark">#043A77</color>
+    <color name="colorAccent">#18C7DD</color>
+    <color name="window_background">#F04D0E</color>
+
+    <color name="bg_view_transparent">#ABF37CE3</color>
+    <color name="app_bg">#e25822</color>
+    <color name="white">#F3131414</color> //palying song on recycler view
+
+    <color name="title">#FCFAF7F7</color>//ye song ka title h
+
+    <color name="list_divider">#FBFACBF5</color>
+
+
+    <color name="waveform_selected">#16F0B2</color> //played song
+    <color name="waveform_unselected">#195a72</color>
+    <color name="waveform_unselected_bkgnd_overlay">#0a242d</color>
+    <color name="selection_border">#C02525</color>
+    <color name="playback_indicator">#ffff66</color>
+    <color name="grid_line">#66ffffff</color>
+    <color name="timecode">#ddffffdd</color>
+    <color name="timecode_shadow">#4CAF50</color>
+
+</resources>

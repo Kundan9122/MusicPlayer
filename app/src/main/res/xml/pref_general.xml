@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="audio_effects"
+        android:summary="@string/app_name"
+        android:title="@string/action_audio_effects" />
+    <!--<SwitchPreference-->
+    <!--android:defaultValue="true"-->
+    <!--android:key="example_switch"-->
+    <!--android:summary="fhsjhgkjsfdhkg"-->
+    <!--android:title="sdfgjlsdgljl" />-->
+
+    <!--<EditTextPreference-->
+    <!--android:capitalize="words"-->
+    <!--android:defaultValue="@string/fb_login_protocol_scheme"-->
+    <!--android:inputType="textCapWords"-->
+    <!--android:key="example_text"-->
+    <!--android:maxLines="1"-->
+    <!--android:selectAllOnFocus="true"-->
+    <!--android:singleLine="true"-->
+    <!--android:title="@string/app_name" />-->
+</PreferenceScreen>

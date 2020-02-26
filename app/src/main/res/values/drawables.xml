@@ -1,0 +1,11 @@
+<resources>
+    <item name="ic_menu_dedications" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_dedicate" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_playlists" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_tracks" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_albums" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_artists" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_genres" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_folders" type="drawable">@drawable/ic_library_music</item>
+    <item name="ic_menu_share" type="drawable">@drawable/ic_menu_share</item>
+</resources>

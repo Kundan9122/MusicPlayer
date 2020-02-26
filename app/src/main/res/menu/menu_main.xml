@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.firekernel.musicplayer.ui.MainActivity">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:orderInCategory="100"
+        android:title="@string/action_search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_audio_effects"
+        android:orderInCategory="100"
+        android:title="@string/action_audio_effects"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>
